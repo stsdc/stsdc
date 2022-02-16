@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I have 3+ years experience in developing software for robots and IoT devices using 🐍 Python.
+3+ years experience in developing software for robots and IoT devices using 🐍 Python.
 
 Also made a few GUI (GTK3) apps to control robots.
 
