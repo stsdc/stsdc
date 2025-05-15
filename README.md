@@ -4,7 +4,7 @@
 
 Also made a few GUI (GTK3) apps to control robots.
 
-- 🐍  Python is the main developing language
+- 🐍  Python is the main language
 - 🛠️ Currently maintaining and developing [Monitor](https://github.com/stsdc/monitor)
 - ✨ Learning Svelte and Python in a context of web development
 
